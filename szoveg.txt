@@ -1,0 +1,48 @@
+A hópárduc a ragadozók rendjébe és a macskafélék családjába tartozik. DNS-vizsgálatok alapján a macskafélék törzsfáján a hópárduc testvércsoportot alkot a tigrissel. Meg Közép-Ázsia hegyvidéki területein honos.
+
+Testfelépítése
+hópárduc a hóban
+Tömege általában 35-55 kg. Hosszú farka arra való, hogy azzal egyensúlyoz a meredek lejtőkön és ha alszik, ezzel védi orrát és száját a rendkívüli hidegtől. Teste 100-130 cm hosszú, farka körülbelül 80-100 cm.
+
+Életmódja
+hópárduc az eső hóban
+Éjszaka vagy alkonyatkor megy vadászni és ők a legmagasabban élő macskaféle. Többnyire magányosan él, a párzási időszak januártól március közepéig tart. Egyedül neveli a 2-3 kölykét, ritkán akár 7 is lehet. Általában 10-12 évig él, de fogságban a 21 éves kort is megérheti. Nem tud bögni a gepárdhoz hasonlóan.
+
+Hópárduc populációja
+hópárduc populáció
+Kína: 4 500 példány
+Mongólia: 1 000 példány
+India: 516-524 példány
+
+A teljes oldalra állíts be: 
+    háttérszíne halvány kék
+    Betűszín: kékesszürke
+
+A főcím formázásai: 
+    betűtípusa Broadway
+    Betűméret: 40 képpont.
+    Minden szó kezdőbetűje nagybetű lesz.
+    Szöveg középre igazítása.
+    Betűk közti távolság: 5 képpont.
+    Háttérszín: sötétszürkéskék
+    Betűszín: világoskék.
+
+Másodszintű címsor formázásai:
+    betűmérete: 20px
+    Betűtípus-család: válassz teteszőlegest
+    Betűszín: középkékes-szürke
+    Háttérszín: nagyon világos kék
+
+képek: 
+    A képek szélessége a szülőelem 20%-a lesz.
+
+bekezdés: 
+    betűmérete: 15px  
+    Szöveg sorkizárt
+
+
+Hivatkozások
+    színe: sötétkék
+    ne legyen aláhúzva
+    Dőlt betűs
+
